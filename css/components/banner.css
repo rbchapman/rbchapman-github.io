@@ -1,0 +1,36 @@
+.banner {
+  color: white;
+  height: 350px;
+  background-position: center;
+  background-size: cover;
+  padding: 150px 0;
+  width: 100%;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+
+}
+
+.banner h1 {
+  margin: 0;
+}
+
+.banner p {
+  margin: 0;
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-shadow: 2px 4px 10px rgba(0,0,0,0.5);
+}
+
+.btn-ikea {
+  text-decoration: none;
+  color: #081c15;
+  background-color: white;
+  border: 1px solid rgb(180, 180, 180);
+  padding: 8px 24px;
+  border-radius: 60px;
+}
+
+.btn-ikea:hover {
+  border: 1px solid #081c15;
+}

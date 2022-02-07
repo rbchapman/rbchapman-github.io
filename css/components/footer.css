@@ -1,0 +1,30 @@
+.footer{
+  background-color: #081c15;
+  height: 200px;
+  width: 100%;
+  margin-top: 10px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a{
+  text-align: center;
+  font-size: 45px;
+  color: #95d5b2;
+  display: inline-block;
+  padding: 10px;
+  font-weight: lighter;
+}
+
+.footer a:hover{
+  color: #40916c;
+}
+
+.footer p{
+  text-align: center;
+  color: #95d5b2;
+  font-size: 30;
+}
